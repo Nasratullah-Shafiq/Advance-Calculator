@@ -1,0 +1,27 @@
+G:\Stock\Stock_Management\Window10 Calculator\Window10 Calculator\bin\Debug\Window10 Calculator.exe.config
+F:\Stock\Stock_Management\Window10 Calculator\Window10 Calculator\bin\Debug\Window10 Calculator.exe.config
+F:\Stock\Stock_Management\Window10 Calculator\Window10 Calculator\obj\Debug\Window10 Calculator.csprojResolveAssemblyReference.cache
+F:\Stock\Stock_Management\Window10 Calculator\Window10 Calculator\obj\Debug\Window10_Calculator.Properties.Resources.resources
+F:\Stock\Stock_Management\Window10 Calculator\Window10 Calculator\obj\Debug\Window10_Calculator.Windows10_Calculator.resources
+F:\Stock\Stock_Management\Window10 Calculator\Window10 Calculator\obj\Debug\Window10 Calculator.csproj.GenerateResource.Cache
+F:\Stock\Stock_Management\Window10 Calculator\Window10 Calculator\bin\Debug\Window10 Calculator.exe
+F:\Stock\Stock_Management\Window10 Calculator\Window10 Calculator\bin\Debug\Window10 Calculator.pdb
+F:\Stock\Stock_Management\Window10 Calculator\Window10 Calculator\obj\Debug\Window10 Calculator.exe
+F:\Stock\Stock_Management\Window10 Calculator\Window10 Calculator\obj\Debug\Window10 Calculator.pdb
+G:\Stock\Stock_Management\Window10 Calculator\Window10 Calculator\obj\Debug\Window10 Calculator.exe
+G:\Stock\Stock_Management\Window10 Calculator\Window10 Calculator\obj\Debug\Window10 Calculator.pdb
+G:\Stock\Stock_Management\Window10 Calculator\Window10 Calculator\bin\Debug\Window10 Calculator.exe
+G:\Stock\Stock_Management\Window10 Calculator\Window10 Calculator\bin\Debug\Window10 Calculator.pdb
+G:\Stock\Stock_Management\Window10 Calculator\Window10 Calculator\obj\Debug\Window10 Calculator.csprojResolveAssemblyReference.cache
+G:\Stock\Stock_Management\Window10 Calculator\Window10 Calculator\obj\Debug\Window10_Calculator.Properties.Resources.resources
+G:\Stock\Stock_Management\Window10 Calculator\Window10 Calculator\obj\Debug\Window10_Calculator.Windows10_Calculator.resources
+G:\Stock\Stock_Management\Window10 Calculator\Window10 Calculator\obj\Debug\Window10 Calculator.csproj.GenerateResource.Cache
+H:\Stock\Stock_Management\Window10 Calculator\Window10 Calculator\bin\Debug\Window10 Calculator.exe.config
+H:\Stock\Stock_Management\Window10 Calculator\Window10 Calculator\obj\Debug\Window10 Calculator.exe
+H:\Stock\Stock_Management\Window10 Calculator\Window10 Calculator\obj\Debug\Window10 Calculator.pdb
+H:\Stock\Stock_Management\Window10 Calculator\Window10 Calculator\obj\Debug\Window10 Calculator.csprojResolveAssemblyReference.cache
+H:\Stock\Stock_Management\Window10 Calculator\Window10 Calculator\obj\Debug\Window10_Calculator.Properties.Resources.resources
+H:\Stock\Stock_Management\Window10 Calculator\Window10 Calculator\obj\Debug\Window10_Calculator.Windows10_Calculator.resources
+H:\Stock\Stock_Management\Window10 Calculator\Window10 Calculator\obj\Debug\Window10 Calculator.csproj.GenerateResource.Cache
+H:\Stock\Stock_Management\Window10 Calculator\Window10 Calculator\bin\Debug\Window10 Calculator.exe
+H:\Stock\Stock_Management\Window10 Calculator\Window10 Calculator\bin\Debug\Window10 Calculator.pdb
